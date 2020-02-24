@@ -1,8 +1,8 @@
-#Python script to generate Minesweeper for discord
+# Python script to generate Minesweeper for discord
 
 Simply run the code, the copy-paste the result into a discord chat.
 
-##Usage:
+## Usage:
 
 ```
 python minesweeper.py -s S -m M
